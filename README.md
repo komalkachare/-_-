@@ -1,4 +1,5 @@
 
+
 # 𝐏𝐡𝐨𝐧𝐞𝐩𝐞 𝐏𝐮𝐥𝐬𝐞 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 
 
 I recently completed an in-depth analysis of the #PhonePe Pulse data from 2018 to 2020. This project allowed me to explore the transactional trends and user registrations across various regions and states in India.
@@ -21,3 +22,4 @@ I recently completed an in-depth analysis of the #PhonePe Pulse data from 2018 t
 ## Conclusion 
 
  This project was a great opportunity to utilize Power BI’s powerful data visualization capabilities to turn raw data into meaningful insights. The dashboards provide a clear and comprehensive view of PhonePe's transactional ecosystem, helping stakeholders make informed decisions.
+![Screenshot 2024-08-24 145004](https://github.com/user-attachments/assets/9606ec88-4521-4de5-8fed-ec4d421af75e)
